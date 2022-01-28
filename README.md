@@ -1,2 +1,2 @@
-# FDM-SQL-Project-
+# FDM-SQL-Project- #
 Foundations of Data Management project
